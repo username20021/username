@@ -6,4 +6,4 @@ my-project/
 │── .gitignor
 im  king
 Imagine living on Mars.
-Write about a lucky coin.
+n.
