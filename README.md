@@ -2,7 +2,6 @@
 
 
 │── README.md
-│── .gitignor
 
 
 
