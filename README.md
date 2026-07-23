@@ -1,7 +1,7 @@
 
 
 
-EADME.
+EADM.
 
 im king 
 
