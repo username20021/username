@@ -1,4 +1,4 @@
-eache
+each
 
 
 
