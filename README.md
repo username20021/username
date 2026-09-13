@@ -1,5 +1,5 @@
 th
- a god
+ god
 
 d 
 
