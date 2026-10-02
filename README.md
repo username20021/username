@@ -1,6 +1,6 @@
 th
  god 
 
- a god 
+god 
 
  
